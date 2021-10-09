@@ -1,0 +1,10 @@
+01:Twisties:0.50:25:ITM01.jpg
+02:Mamee:0.30:20:ITM02.png
+03:*:*:*:*
+04:Mentos:0.80:24:ITM04.jpg
+05:Cookie:1.50:23:ITM05.png
+06:Kitkat:1.20:24:ITM06.png
+07:100plus:3.00:24:ITM07.jpg
+08:Coke:3.00:24:ITM08.jpg
+09:Kickapoo:3.00:25:ITM09.jpg
+10:Sprite:3.00:25:ITM10.jpg
