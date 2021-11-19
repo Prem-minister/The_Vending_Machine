@@ -1,3 +1,5 @@
-The_Vending_Machine
+## The Vending Machine Sytem
 
-This project is fully done using java in NetBeans.
+## How was it developed?
+> The vending machine system was developed fully using Java in Netbeans IDE.
+
